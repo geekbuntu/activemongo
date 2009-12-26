@@ -1,1 +1,1 @@
-ActiveMongo
+ActiveMongo is a ActiveRecord-like PHP class for MongoDB---requirements * MongoDB 1.2 or higher * PHP 5.3 or higher * Pecl module ‘mongo’ 1.0.2 or higher---configurationJust one line:define('DATABASE', 'mongodb://[username:password@]localhost[:port]/database');---quickstartSee index.php for a quick start.
